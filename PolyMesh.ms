@@ -1,4 +1,4 @@
-/*! © 2015 imaoki | MIT License | https://github.com/imaoki */
+/*! © 2019 imaoki | MIT License | https://github.com/imaoki */
 /**
 `Editable_Mesh`、`Editable_Poly`、および`Edit_Poly`の操作を共通化するためのラッパー。
 */
